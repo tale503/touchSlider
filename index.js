@@ -1,3 +1,3 @@
 function go() {
-  console.log('tale')
+  console.log('tale---')
 }
